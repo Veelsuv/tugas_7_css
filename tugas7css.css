@@ -1,0 +1,20 @@
+body {
+    background-image: url("stupa_borobudur.jpg");
+    background-color: blue;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-attachment: scroll;
+
+  }
+
+div {
+  width: 500px;
+  height: 400px;
+  text-align: left;
+  color: blue;
+  border: 2px solid red;
+  margin: 0 auto;
+  background-image: url("alpukat.jpg");
+  background-repeat: repeat;
+
+}
